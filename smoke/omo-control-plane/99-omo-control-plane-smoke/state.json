@@ -1,7 +1,9 @@
 {
   "version": 1,
   "work_item_id": "99-omo-control-plane-smoke",
-  "attempts": {},
+  "attempts": {
+    "1": 1
+  },
   "review_loops": {
     "backend": {
       "requested_changes": 0,
@@ -25,5 +27,15 @@
       "prompt_feedback_tokens": []
     }
   },
-  "events": []
+  "events": [
+    {
+      "stage": 1,
+      "attempt": 1,
+      "actor": "claude",
+      "outcome": "approve",
+      "artifact_dir": "/Users/shj/2025/2026/homecook1/.artifacts/omo-control-plane-smoke-replay-r7/stage-1-attempt-1",
+      "review_feedback_seen": false,
+      "updated_at": "2026-04-21T13:17:09.984Z"
+    }
+  ]
 }
