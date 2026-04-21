@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "project_profile": "homecook",
+  "updated_at": "2026-04-21T13:17:07.842Z",
+  "items": [
+    {
+      "id": "99-omo-control-plane-smoke",
+      "preset": "vertical-slice-strict",
+      "branch": "ops/omo-99-omo-control-plane-smoke-runtime-anchor",
+      "lifecycle": "planned",
+      "approval_state": "not_started",
+      "verification_status": "pending",
+      "required_checks": [
+        "pnpm validate:workflow-v2"
+      ],
+      "pr_path": null,
+      "notes": "sandbox_repo=guswn2521/homecook-omo-sandbox-public-r7"
+    }
+  ]
+}
