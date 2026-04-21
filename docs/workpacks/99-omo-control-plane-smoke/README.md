@@ -89,4 +89,3 @@
 ## Delivery Checklist
 - [x] 백엔드 계약 고정 <!-- omo:id=delivery-backend-contract;stage=2;scope=backend;review=3,6 -->
 - [ ] UI 연결 <!-- omo:id=delivery-ui;stage=4;scope=frontend;review=5,6 -->
-- Stage 1 docs smoke touched this workpack at 2026-04-21T13:57:24.036Z

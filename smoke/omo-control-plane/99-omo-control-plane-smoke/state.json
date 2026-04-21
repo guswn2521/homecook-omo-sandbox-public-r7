@@ -3,7 +3,7 @@
   "work_item_id": "99-omo-control-plane-smoke",
   "attempts": {
     "1": 4,
-    "2": 2
+    "2": 4
   },
   "review_loops": {
     "backend": {
@@ -82,6 +82,24 @@
       "artifact_dir": "/Users/shj/2025/2026/homecook1/.artifacts/omo-control-plane-smoke-replay-r7c/stage-1-attempt-4",
       "review_feedback_seen": false,
       "updated_at": "2026-04-21T13:57:25.178Z"
+    },
+    {
+      "stage": 2,
+      "attempt": 3,
+      "actor": "codex",
+      "outcome": "approve",
+      "artifact_dir": "/Users/shj/2025/2026/homecook1/.artifacts/omo-control-plane-smoke-replay-r7c/stage-2-attempt-3",
+      "review_feedback_seen": false,
+      "updated_at": "2026-04-21T14:01:57.074Z"
+    },
+    {
+      "stage": 2,
+      "attempt": 4,
+      "actor": "codex",
+      "outcome": "approve",
+      "artifact_dir": "/Users/shj/2025/2026/homecook1/.artifacts/omo-control-plane-smoke-replay-r7c/stage-2-attempt-4",
+      "review_feedback_seen": false,
+      "updated_at": "2026-04-21T14:02:03.442Z"
     }
   ]
 }
