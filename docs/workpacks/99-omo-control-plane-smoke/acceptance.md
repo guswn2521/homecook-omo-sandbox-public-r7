@@ -2,7 +2,7 @@
 
 ## Happy Path
 - [x] API 응답 형식이 { success, data, error }를 따른다 <!-- omo:id=accept-backend-api;stage=2;scope=backend;review=3,6 -->
-- [ ] loading 상태가 있다 <!-- omo:id=accept-loading;stage=4;scope=frontend;review=5,6 -->
+- [x] loading 상태가 있다 <!-- omo:id=accept-loading;stage=4;scope=frontend;review=5,6 -->
 
 ## State / Policy
 - smoke state transition contract is documented in workflow-v2 fixtures
