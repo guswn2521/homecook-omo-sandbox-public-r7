@@ -1,0 +1,15 @@
+name: Sandbox Smoke Check
+
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+
+jobs:
+  sandbox-smoke-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Confirm sandbox workflow
+        run: echo "sandbox smoke check passed"
