@@ -59,8 +59,8 @@
 ## Design Status
 
 - [ ] 임시 UI (temporary)
-- [ ] 리뷰 대기 (pending-review)
-- [x] 확정 (confirmed)
+- [x] 리뷰 대기 (pending-review)
+- [ ] 확정 (confirmed)
 - [ ] N/A
 
 ## Source Links
