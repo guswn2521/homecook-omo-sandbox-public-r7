@@ -59,8 +59,8 @@
 ## Design Status
 
 - [ ] 임시 UI (temporary)
-- [x] 리뷰 대기 (pending-review)
-- [ ] 확정 (confirmed)
+- [ ] 리뷰 대기 (pending-review)
+- [x] 확정 (confirmed)
 - [ ] N/A
 
 ## Source Links
@@ -90,6 +90,7 @@
 - [x] 백엔드 계약 고정 <!-- omo:id=delivery-backend-contract;stage=2;scope=backend;review=3,6 -->
 - [x] UI 연결 <!-- omo:id=delivery-ui;stage=4;scope=frontend;review=5,6 -->
 - Stage 1 docs smoke touched this workpack at 2026-04-21T14:22:20.643Z
+
 
 
 
